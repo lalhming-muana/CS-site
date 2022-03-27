@@ -1,0 +1,30 @@
+#upper_panel{
+    height: 10vh;
+    background-color: #9ccaca;
+}
+
+#lower_panel{
+    height: 90vh;
+    display: flex;
+   
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    max-height: 95%;
+}
+
+
+#left_panel{
+    background-color: white;
+    max-width: 30%;
+    max-height: 100%;
+
+}
+
+#right_panel{
+    background-color: #155f2a;
+    max-width: 70%;
+    max-height: 100%;
+}
