@@ -20,6 +20,7 @@ img{
     background-color: white;
     max-width: 30%;
     max-height: 100%;
+    flex-basis: 25%;
 
 }
 
@@ -27,4 +28,7 @@ img{
     background-color: #155f2a;
     max-width: 70%;
     max-height: 100%;
+    flex-basis: 75%;
+
+    
 }
